@@ -200,9 +200,17 @@ body{
         margin: 0 auto;
         height: 70vh;
     }
+    .content h2{
+        font-size: 30px !important;
+        letter-spacing: 5px;
+    }
     #about{
         height: auto;
-    }        
+    }  
+    .about-header{
+        letter-spacing: 3px;
+        font-weight: 600;
+    }      
     .footer .social{
         font-size: 20px;
         text-decoration: none;
